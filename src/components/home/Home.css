@@ -1,0 +1,35 @@
+.home{
+    position: relative;
+}
+.parent{
+    display:flex;
+    padding: 64px 5% 32px 5%;
+}
+.container-left{
+    padding:0 5%;
+}
+.container-right{
+    padding:0 5%;
+}
+.container-right video{
+    border-radius: 20px;
+}
+.btn {
+    background: blue;
+    color: white;
+    width: 160px; 
+    border: 2px solid blue;
+    border-radius: 20px;
+    margin: 20px 0;
+}
+
+.btn:hover{
+    background:white;
+    color: blue;
+}
+.paragraph{
+    font-size: 18px;
+}
+.pa{
+    text-align: center;
+}

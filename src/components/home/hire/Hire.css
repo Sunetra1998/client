@@ -1,0 +1,86 @@
+.container{
+    margin-top: 12px;
+    display: flex;
+}
+
+.first-container{
+    display: flex;
+    margin-top: 24px;
+}
+
+.first-container .btn{
+    margin-top: 0;
+}
+
+.second-container{
+    display: flex;
+}
+
+.second-container input{
+    width: 300px;
+    border: 1px solid lightgray;
+    border-radius: 18px;
+    margin-top: 8px;
+}
+.second-container input::placeholder{
+    padding-left: 16px;
+}
+
+.second-container label{
+    font-size:12px
+}
+.company-heading {
+    margin-right: 54vw;
+}
+.company-input{
+    margin-right: 60px;
+}
+
+.third-container {
+        display: flex;
+        margin-top: 40px !important;
+    }
+
+.jd-input{
+    border: 1px solid lightgray;
+    padding: 48px 96px;
+    border-collapse: collapse;
+}
+
+.jd-input input{
+    border: 1px dashed lightgray;
+    padding: 48px 42px;
+    text-align: center;
+}
+.link-input{
+    border: 1px solid lightgray;
+    padding: 48px 96px;
+}
+.link-input input{
+    width: 300px;
+    border: 1px solid lightgray;
+    border-radius: 18px;
+    margin-top: 8px;
+}
+.link-input img {
+    padding-left: 36px;
+}
+
+.fourth-container{
+    display:block;
+    border: 1px solid lightgray;
+    padding: 12px 96px;
+    margin-top: 40px !important;
+    margin-bottom: 60px;
+}
+
+.fourth-container textarea{
+    border:none;
+    width: 60vw;
+    height: 120px;
+}
+.btn-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+}

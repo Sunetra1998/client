@@ -1,0 +1,67 @@
+.container{
+    margin-top: 12px;
+    display: flex;
+}
+
+.first-container{
+    display: flex;
+    margin-top: 24px;
+}
+
+.first-container .btn{
+    margin-top: 0;
+}
+.container-second{
+    display: flex;
+}
+.job-heading{
+    display: flex;
+    margin-right: 31%;
+}
+
+.job-description{
+    background: azure;
+    width: 48%;
+    margin-right: 10%;
+    padding: 60px 48px;
+}
+
+.source-candidates{
+    width: 45%;
+}
+
+.job-heading .btn{
+    margin: 0 10% 0;
+    width: 120px;
+}
+
+.resume-ip input{
+    border: 1px dashed lightgray;
+    padding: 48px 42px;
+    text-align: center;
+}
+
+.link-content{
+margin: 40px 0;
+display: flex;
+background: azure;
+    padding: 20px 20px
+}
+
+.link-btn .btn{
+    margin: 0 40px;
+}
+
+.source-expertia{
+    background: azure;
+    padding: 20px 20px
+}
+
+.platform-logo-item{
+    margin-right: 20px;
+}
+
+.source-talent-btn{
+    display: flex;
+    justify-content:flex-end;
+}

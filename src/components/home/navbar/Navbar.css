@@ -1,0 +1,61 @@
+.navbar-collapse {
+    margin-left: 50%;
+  }
+  
+  a{
+    color: blue !important;
+  }
+  .para{
+    font-size: 44px;
+    font-weight: 700;
+  }
+  .signup-btn{
+    border: 1px solid blue;
+    border-radius: 20px;
+    color: white !important;
+    background: blue;
+    width: 80px;
+  }
+  
+  .nav-item {
+    padding: 0px 10px;
+  }
+  .signup-container{
+      height:500px;
+      width:700px;
+      background-color:rgb(241, 238, 238);
+      position: absolute;
+      z-index: 100;
+      right:32vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      width: 400px;
+  }
+
+  .signup-container .hire-btn{
+    border: 1px solid green;
+    margin-top: 8px;
+  }
+
+  .signup-container .hire-btn .link{
+    color:white;
+    text-decoration: none;
+  }
+
+  .signup-container .apply-btn{
+      background-color:green;
+      color: white;
+      border: 1px solid green;
+      margin-top: 8px;
+    }
+
+  .signup-container .already-account {
+      font-size:12px;
+  }
+
+  .signup-container .great{
+    padding-right: 148px;
+    padding-bottom: 36px;
+  }
